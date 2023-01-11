@@ -1,24 +1,4 @@
 `timescale 1ns / 10ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 02/13/2022 08:21:49 PM
-// Design Name: 
-// Module Name: FullAdder_tb
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
 
 module FullAdder_tb;
     logic a, b, cin;
